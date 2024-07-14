@@ -10,11 +10,17 @@
   - Projects related to computer hardware and organization.
 - **3350 - Software Engineering**
   - Software development methodologies and practices.
+- **3480 - Computer Graphics**
+  - Shaders
 - **3500 - Programming Languages**
   - Exploration of different programming languages and paradigms.
+- **3560 - Artificial Intelligence**
+
 - **3600 - Operating Systems**
   - Concepts and implementation of operating systems.
 - **3620 - Computer Networks**
   - Networking principles and protocols.
+- **3640 - Distributed and Parallel Computing**
+  
 - **4490 - Game Development**
   - Game design and development projects.
