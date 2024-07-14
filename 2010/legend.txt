@@ -1,0 +1,11 @@
+Descriptions of files and their output/goals:
+----------------------------------------------
+lab01: Tropical Year calculator
+lab02: Stock market analyzer, basic mathematic operations
+lab03: Simple gas price calculator based on credit vs. debit
+lab04: Various i/o operations and basic mathematic operations
+lab05: Basic interest calculator spanning 30 days
+lab06: Right Triangle caculator for perimeter, area, pythogrean theorem. Clean functions
+lab07: Change calculator in fewesest coins. Modulo
+lab08: 
+
