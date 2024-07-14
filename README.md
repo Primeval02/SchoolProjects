@@ -1,5 +1,6 @@
 All files and directories pulled from school's department sever,
 All classes are as listed below to help navigation:
+
 -----------------------------------------------------
 2010 - Programming I Fundamentals
 assignments / 2020 - Programming II Data Structures
