@@ -1,14 +1,20 @@
-All classes are as listed below to help navigation:
------------------------------------------------------
-2010 - Programming I Fundamentals
-assignments / 2020 - Programming II Data Structures
-3120 - Algorithm Analysis 
-3240 - Computer Architecture II - Organization
-3350 - Software Engineering
-3500 - Programming Languages
-3600 - Operating Systems
-3620 - Computer Networks
-4490 - Game Development
+## All classes are listed below for navigation:
 
-All files and directories pulled from school's department sever
-Text files are in most directories to try and describe the project's learning objective
+- **2010 - Programming I Fundamentals**
+  - Assignments and projects focused on the basics of programming.
+- **2020 - Programming II Data Structures**
+  - Work on various data structures including arrays, linked lists, and trees.
+- **3120 - Algorithm Analysis**
+  - Analysis and implementation of common algorithms.
+- **3240 - Computer Architecture II - Organization**
+  - Projects related to computer hardware and organization.
+- **3350 - Software Engineering**
+  - Software development methodologies and practices.
+- **3500 - Programming Languages**
+  - Exploration of different programming languages and paradigms.
+- **3600 - Operating Systems**
+  - Concepts and implementation of operating systems.
+- **3620 - Computer Networks**
+  - Networking principles and protocols.
+- **4490 - Game Development**
+  - Game design and development projects.
