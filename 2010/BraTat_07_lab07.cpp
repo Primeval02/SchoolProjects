@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
@@ -53,7 +54,7 @@ double get_money_min(string prompt, double minimum)
 void calc_change(double change, int & quarters, int & dimes, int & nickels, int & pennies)
 {
     int cents = change * 100;
-    cents = cents % 100;
+    //cents = cents % 100;
     quarters = cents / 25;
     cents = cents % 25;
     dimes = cents / 10;
