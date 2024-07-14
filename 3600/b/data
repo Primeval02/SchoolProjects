@@ -1,0 +1,77 @@
+ 11:38:45 up 159 days, 21:45, 75 users,  load average: 0.60, 0.60, 0.76
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+dwelch   pts/0    136.168.201.2    10:13    1:02   0.97s  0.90s vi dwelch.cpp
+nflessat pts/1    136.168.201.2    11:00   29.00s  0.10s  0.10s -bash
+jfranco  pts/2    136.168.201.2    08:52    1:53m  0.54s  0.52s vi Monster.cpp
+steve    pts/3    136.168.201.152  19Oct22 21:55m  0.14s  0.01s sshd: steve [priv]  
+steve    pts/4    136.168.201.152  17Oct22 51:09   0.30s  0.01s sshd: steve [priv]  
+msaini   pts/5    136.168.201.2    10:57   13.00s  0.04s  0.04s -bash
+gordon   pts/6    136.168.201.2    10:43   13.00s  1.28s  1.26s vi vmemory.c
+kwood    pts/7    107.146.240.170  Sat15    3days  0.03s  0.03s -bash
+isamara  pts/8    136.168.84.221   10:40   13.00s  2.55s  0.00s ./runme_int
+jsingh   pts/9    136.168.201.2    10:58   12.00s  0.08s  0.08s -bash
+inerizav pts/10   136.168.201.2    10:44    9:57   0.03s  0.03s -bash
+steve    pts/11   136.168.201.2    11Aug22 82days  0.06s  0.01s sshd: steve [priv]  
+gordon   pts/12   136.168.201.2    10:43   26.00s  0.06s  0.06s -bash
+jkuo     pts/13   136.168.201.2    11:36    1:55   0.03s  0.03s -bash
+jcox     pts/14   136.168.201.2    11:11    9:01   0.03s  0.03s -bash
+jrobles  pts/17   136.168.201.2    10:44    2:16   0.06s  0.06s -bash
+jramos3  pts/15   136.168.50.52    10:33   21.00s  2.20s  2.17s vi transfersize.py
+aportill pts/16   162.228.164.181  10:17    3.00s  0.12s  0.12s -bash
+kwood    pts/18   107.146.240.170  Mon15   43:39m  0.07s  0.07s -bash
+lpena    pts/19   136.168.201.2    10:48    1:09   0.28s  0.28s -bash
+rwyatt   pts/20   tmux(2075119).%3 11:32    3:48   2.27s  2.21s nvim /home/stu/rwyatt/.tmux.conf
+stellez  pts/21   136.168.201.2    10:45    3:07   0.11s  0.04s vi vmemory.c
+inerizav pts/22   136.168.201.2    10:45    5:59   0.07s  0.07s -bash
+jrobles  pts/23   136.168.201.2    10:45    2:19   1.31s  1.29s vi vmemory.c
+lpena    pts/24   136.168.201.2    10:45    2.00s  1.52s  1.39s vim vmemory.c
+inerizav pts/25   136.168.201.2    10:46    3:17   1.29s  1.26s vi vmemory.c
+ppark    pts/26   136.168.201.2    10:52    9:49   1.22s  1.20s vim vmemory.c
+drank    pts/27   136.168.201.2    10:52   43.00s  0.05s  0.05s -bash
+albert   pts/28   tmux(1520864).%1 10Oct22 12days  0.02s  0.02s /bin/bash
+ppark    pts/29   136.168.201.2    10:52    9:41   0.05s  0.05s -bash
+drank    pts/30   136.168.201.2    10:52   45.00s  1.32s  1.29s vi vmemory.c
+jcox     pts/31   136.168.201.2    10:52    2:04   0.06s  0.03s vim vimemory.c
+jflander pts/32   136.168.201.2    10:53   21.00s  2.03s  2.01s vi vmemory.c
+jflander pts/33   136.168.201.2    10:53    9.00s  0.07s  0.07s -bash
+rplascen pts/34   136.168.201.2    10:54    1:33   1.49s  1.47s vi vmemory.c
+imacias  pts/35   136.168.201.2    10:54   13.00s  0.16s  0.03s vi vmemory.c
+afabian  pts/36   136.168.54.28    10:54   25.00s  1.33s  1.29s vi vmemory.c
+afabian  pts/37   136.168.54.28    10:54   20.00s  0.08s  0.08s -bash
+rplascen pts/38   136.168.201.2    10:55   12.00s  0.05s  0.05s -bash
+iruiz    pts/39   136.168.201.2    10:56   13.00s  0.03s  0.03s -bash
+steve    pts/40   136.168.201.152  17Oct22  1:52m 13.31s 13.29s alpine
+iruiz    pts/41   136.168.201.2    10:56    5.00s  0.05s  0.05s -bash
+msaini   pts/42   136.168.201.2    10:56    5.00s  0.04s  0.04s -bash
+jsingh   pts/43   136.168.201.2    10:57    5.00s  1.30s  1.26s vi vmemory.c
+eramosso pts/44   136.168.201.2    10:57    3:01   0.25s  0.18s vi vmemory.c
+mjimenez pts/45   136.168.201.2    10:58    5.00s  0.14s  0.06s vi vmemory.c
+dwelch   pts/46   136.168.201.2    10:58    7:17   0.04s  0.04s -bash
+jsalgado pts/47   136.168.201.2    10:59    3:01   1.50s  1.47s vi vmemory.c
+anguyen2 pts/49   136.168.90.225   10:59    2:08   0.06s  0.06s -bash
+jsalgado pts/50   136.168.201.2    10:59    2:13   0.06s  0.06s -bash
+ekyles   pts/51   136.168.201.2    10:59    4:36   0.13s  0.03s vim vmemory.c
+aynostro pts/52   136.168.201.2    11:00    3:41   0.15s  0.07s vi vmemory.c
+gjimenez pts/53   136.168.49.218   11:00    3:23   0.18s  0.13s vi vmemory.c
+btate    pts/54   136.168.80.113   11:00   11.00s  0.03s  0.03s -bash
+nflessat pts/55   136.168.201.2    11:00   45.00s  0.08s  0.04s vi vmemory.c
+rwyatt   pts/56   136.168.93.244   11:01    2:05   0.04s  0.00s tmux
+sesquive pts/57   136.168.94.204   11:01    3.00s  0.15s  0.09s vi vmemory.c
+jbanksto pts/58   136.168.201.2    11:01    2:45   0.39s  0.35s vi vmemory.c
+ewarren  pts/59   136.168.85.23    11:03    1:39   2.74s  2.68s vim vmemory.c
+rwyatt   pts/60   tmux(2075119).%0 11:03    2:21   6.75s  6.72s nvim vmemory.c
+rwyatt   pts/61   tmux(2075119).%2 11:03    2:03   0.30s  0.30s -zsh
+tbock    pts/62   136.168.49.209   11:03    7:33   0.07s  0.07s -bash
+falegre  pts/63   136.168.51.64    11:03   12.00s  1.86s  1.83s vi vmemory.c
+jkuo     pts/64   136.168.201.2    11:03    2:43   1.93s  1.89s vim vmemory.c
+acazares pts/65   136.168.201.2    11:03   13.00s  0.02s  0.00s tmux
+gordon   pts/66   136.168.201.2    11:36   29.00s  0.03s  0.03s -bash
+jramos3  pts/67   136.168.50.52    11:04    7:47   0.03s  0.03s -bash
+jkuo     pts/68   136.168.201.2    11:05    1:48   0.07s  0.07s -bash
+falegre  pts/69   136.168.51.64    11:06    5.00s  0.08s  0.08s -bash
+acazares pts/70   tmux(2076870).%0 11:07   20.00s  0.67s  0.62s vim vmemory.c
+afabian  pts/71   136.168.54.28    11:36    2:21   0.03s  0.03s -bash
+btate    pts/72   136.168.80.113   11:07    5.00s  0.06s  0.00s ./a.out
+anguyen2 pts/73   136.168.90.225   11:36    2:21   0.02s  0.02s -bash
+acazares pts/74   tmux(2076870).%1 11:08   13.00s  0.11s  0.11s -bash
+kwood    pts/82   107.146.240.170  26Oct22  3days  0.15s  0.04s vi proj.py

@@ -1,0 +1,6 @@
+1. To test to see if the user input is correct the test would consist of various rows and columns increasing in value. Ex)./lab7 23 100
+2. To test the carrying perform the addition on smaller numbers increasing in small amounts to see if the column addition is correct and if it exceeds 9 it carries over to the column on the left.
+3. Test one by hand: Use 2 relatively small numbers and then add them by hand to see if the result is correct.
+4. After doing a smaller one by hand do a larger addition that would be too tedious by hand but could still be entered into a calculator with no hassle to validate the output of those larger numbers.
+5. Perform numerous tests with the same rows and columns input to ensure the numbers are truly random.
+

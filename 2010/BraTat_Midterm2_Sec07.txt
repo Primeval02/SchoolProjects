@@ -1,0 +1,5 @@
+a. 50 
+b. false
+c. true
+d. true
+e. true

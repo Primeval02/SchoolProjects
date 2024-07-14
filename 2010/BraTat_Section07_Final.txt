@@ -1,0 +1,73 @@
+1)
+a.false
+b. true
+c. true
+d. false
+e. false
+
+2)
+A6
+B5
+C1
+D7
+E3
+
+3)
+Averager()
+{
+    private:
+        double total;
+        int n;
+        int array[n];
+
+    public:
+        void include(int number)
+        { 
+            array[n] = number;
+            n++;
+        }
+
+        double calc()
+        {
+            for (int i = 0; i < n; i++)
+            {
+                total += array[n];
+            }
+
+            total = total / n;
+
+            return total;
+        }
+};
+
+4)
+AB
+
+5)
+int add_values(bool states[], int values[], int size)
+{
+    int total;
+
+    for(int i = 0; i < size; i++)
+    {
+        if (states[i] == true)
+        {
+            total += values[i];
+        }
+    }
+
+    return total;    
+}
+
+6)
+Copy Constructor: A constructor which creates an object by initializing it with an object of the same class, which has been created previously.
+
+Friend Function: A friend function of a class is defined outside that class' scope but it has the right to access all private and protected members of the class.
+
+Default Parameter: A default argument is a value provided in a function that is automatically assigned by the compiler if the caller of the function doesn't provide a value 
+    for the argument with a default value.
+
+Dereference Operator: Denoted by (*), it is used to get the "value pointed by" a pointer.
+
+& as a Parameter: The ampersand when used in a function parameter means to pass by reference. This means the reference of an argument is copied into the formal parameter.
+    Inside the function, the reference is used to access the actual argument used in the call.

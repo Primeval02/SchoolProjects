@@ -1,0 +1,3 @@
+1. Without the dependencies the target would not know where or what the source code is needed to build.
+
+2. make will look for a Makefile for rules and dependencies in order to build the final target.

@@ -1,0 +1,8 @@
+BFL Bakersfield 3
+LAX Los-Angeles 35
+GRV Grozny 8
+IAH Houston 23
+MGA Managua 11
+LGA La-Guardia 37
+AGU Aguascalientes 12
+JFK New-York 36

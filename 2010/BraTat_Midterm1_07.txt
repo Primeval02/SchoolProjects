@@ -1,0 +1,160 @@
+1)
+a - true
+b - false
+c - true
+d - true
+e - false
+f - true
+
+2)
+a - for(int i = 50; i <= 100; i++)
+    {
+        cout << i << endl;
+    }
+
+b - int number = 100;
+    do
+    {
+        cout << number << endl;
+        number = number - 1;
+    }while (number >= 50);
+
+c - int number = 1;
+    while(number <= 20)
+    {
+        cout << number << endl;
+        number = number + 1;
+    }
+
+3)
+    int number;
+    int minutes;
+    int seconds;
+      
+    cout << "Enter a number between 0 and 300 ";
+    cin >> number;
+
+    if (number >= 0 && number <= 15)
+     {
+         cout << "just now" << endl;
+     }
+
+     else if (number >= 16 && number <= 70)
+     {
+         cout << "about a minute ago" << endl;
+     }
+
+     else
+     {
+         minutes = number / 60;
+         seconds = number % 60;
+         cout << minutes << " minute(s) and " << seconds << " seconds ago." << endl;   
+     }
+
+4)  
+   OFF
+   ON
+   OFF
+   ON
+   OFF
+
+5)
+a: ((2 * a) - b) * (a + 1)
+
+b: (3(a * a)) - ((a * b) / (a + 1)) + (b * b)
+
+6)
+    int number;
+    int total = 0;
+    int counter = 0;
+
+    do
+    {
+        cout << "Enter a number: ";
+        cin >> number;
+        cout << endl;
+
+        total = total + number;
+        counter ++;
+    }while (total <= 100);
+
+    cout << counter << " numbers entered, total of " << total;
+
+7)
+   1 2 3 4
+   2 4 6 8
+   3 6 9 12
+   4 8 12 16
+
+EC: for (int i = 1; i <= 4; i++)
+    {
+        cout << "ITERATION " << i << endl;
+
+        for (int j = 1; j <= 8; j++)
+        {
+            cout << j << " ";
+        }
+
+        cout << endl;
+
+        for (int k = 1; k <= 10; k++)
+        {
+            cout << k * 10 << " ";
+        }
+
+        cout << endl << endl;
+    }
+
+8)
+a - true
+b - true
+c - 1200
+d - true
+e - true
+f - 6
+g - 28
+h - 12
+i - true
+j - 81
+
+9) 
+   900
+   1400
+   1200
+   0
+
+10)
+a - (input == 'x' || input == 'X')
+b - (x >= (data1 + data2))
+c - (dv >= 0 && dv >= 10 && dv <= 20)
+d - (name != "Taylor" && name != "Swift")
+e - (name == "" && is_open != true)
+
+EC: 
+f - if (data1 < data 2)
+    {
+        is_open = true;
+    }
+
+    else
+    {
+        is_open = false;
+    }
+
+g - if (x % data1 == 0)
+    {
+        data2 = data2 * 2;
+    }
+
+h - if (data1 >= 0 && data2 < 0)
+    {
+        name = "data1";
+    }
+
+i - if (data2 != data1)
+    {
+        data2 += x;
+    }
+
+
+EXAM RATING: 5

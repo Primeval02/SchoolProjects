@@ -1,0 +1,16 @@
+1. About 55%
+
+2. Maneuverable menu system with multiple pages that can be accessed at anytime (gameplay or from the main menu)
+   by pressing their respective keys.
+
+3. Coordination is actually a lot harder than I would have thought. Not only is working on the project at the same 
+   time proving to be challenging, but once changes are made deciphering someone else's code to use and incorporate
+   your own with can be worse. 
+
+4. Name            %
+   ----------    -----
+   Julian         40  
+   Evan           15 
+   Bradley        25
+   Irvin          20
+

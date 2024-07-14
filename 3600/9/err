@@ -1,0 +1,72 @@
+myexec.c:2:2: error: unknown type name 'Run'
+myexec.c:2:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'program'
+myexec.c:2:11: error: unknown type name 'program'
+In file included from /usr/include/stdio.h:75:0,
+                 from myexec.c:13:
+/usr/include/libio.h:332:3: error: unknown type name 'size_t'
+/usr/include/libio.h:336:67: error: 'size_t' undeclared here (not in a function)
+/usr/include/libio.h:364:62: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/libio.h:373:6: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/libio.h:495:19: error: expected '=', ',', ';', 'asm' or '__attribute__' before '_IO_sgetn'
+In file included from myexec.c:13:0:
+/usr/include/stdio.h:316:35: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:322:47: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:334:20: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:341:10: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:383:44: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:387:45: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:659:11: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:662:9: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:672:8: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdio.h:702:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'fread'
+/usr/include/stdio.h:708:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'fwrite'
+/usr/include/stdio.h:730:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'fread_unlocked'
+/usr/include/stdio.h:732:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'fwrite_unlocked'
+In file included from myexec.c:14:0:
+/usr/include/stdlib.h:140:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before '__ctype_get_mb_cur_max'
+In file included from myexec.c:14:0:
+/usr/include/stdlib.h:337:4: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:367:4: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:471:22: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:473:22: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:473:38: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:485:36: error: expected declaration specifiers or '...' before 'size_t'
+In file included from /usr/include/stdlib.h:497:0,
+                 from myexec.c:14:
+/usr/include/alloca.h:33:22: error: expected declaration specifiers or '...' before 'size_t'
+In file included from myexec.c:14:0:
+/usr/include/stdlib.h:503:22: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:508:45: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:508:65: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:756:9: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:756:25: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:761:34: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:761:50: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:840:6: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:843:6: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:847:31: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:851:31: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:860:38: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:864:36: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/stdlib.h:871:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'mbstowcs'
+/usr/include/stdlib.h:874:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'wcstombs'
+In file included from myexec.c:15:0:
+/usr/include/unistd.h:357:45: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:363:54: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:373:46: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:381:55: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:508:35: error: expected declaration specifiers or '...' before 'size_t'
+In file included from myexec.c:15:0:
+/usr/include/unistd.h:620:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'confstr'
+/usr/include/unistd.h:793:46: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:829:29: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:840:31: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:876:38: error: expected declaration specifiers or '...' before 'size_t'
+In file included from myexec.c:15:0:
+/usr/include/unistd.h:898:39: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:905:47: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:916:41: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:918:49: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:936:57: error: expected declaration specifiers or '...' before 'size_t'
+/usr/include/unistd.h:937:6: error: expected declaration specifiers or '...' before 'size_t'
+make: *** [myexec] Error 1
