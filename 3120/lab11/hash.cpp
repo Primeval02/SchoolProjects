@@ -26,7 +26,7 @@ void linear(int* input)
 
 void chained(int* input)
 {
-    int table[10][10];
+    int table[10][10] = {0};
     int col;
     for (int i = 0; i < 7; i++) {
         col = 0;
@@ -55,5 +55,7 @@ int main()
 {
     int input[7] = {7, 22, 44, 27, 38, 53, 40};
     linear(input);
+    cout << endl;
+    chained(input);
     return 0;
 }
