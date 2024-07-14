@@ -1,0 +1,170 @@
+2021-03-14 22:08:41,571 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:08:41,571 INFO [default] End Shape::Shape()
+
+2021-03-14 22:08:41,571 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End Line::Line(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start Square::Square(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End Square::Square(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start Cube::Cube(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,571 INFO [default] End Cube::Cube(double)
+
+2021-03-14 22:08:41,571 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,571 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:08:41,571 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,571 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,571 INFO [default] Returning: 0
+
+2021-03-14 22:08:41,571 INFO [default] End double Cube::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 0
+
+2021-03-14 22:08:41,572 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 0
+
+2021-03-14 22:08:41,572 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 0
+
+2021-03-14 22:08:41,572 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: Cube:
+Length: 0
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:08:41,572 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 36
+
+2021-03-14 22:08:41,572 INFO [default] End double Cube::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 216
+
+2021-03-14 22:08:41,572 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 36
+
+2021-03-14 22:08:41,572 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 216
+
+2021-03-14 22:08:41,572 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: Cube:
+Length: 6
+Area: 216
+Volume: 216
+
+
+2021-03-14 22:08:41,572 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:08:41,572 INFO [default] End Shape::Shape()
+
+2021-03-14 22:08:41,572 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End Line::Line(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start Square::Square(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End Square::Square(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start Cube::Cube(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:08:41,572 INFO [default] End Cube::Cube(double)
+
+2021-03-14 22:08:41,572 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 121
+
+2021-03-14 22:08:41,572 INFO [default] End double Cube::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 726
+
+2021-03-14 22:08:41,572 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Start double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] End double Square::Area()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 121
+
+2021-03-14 22:08:41,572 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: 1331
+
+2021-03-14 22:08:41,572 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:08:41,572 INFO [default] Returning: Cube:
+Length: 11
+Area: 726
+Volume: 1331
+
+
+2021-03-14 22:08:41,572 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:08:41,572 INFO [default] End Shape::~Shape()
+
+2021-03-14 22:08:41,572 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:08:41,572 INFO [default] End Shape::~Shape()
+

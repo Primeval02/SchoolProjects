@@ -1,0 +1,32 @@
+2021-01-25 19:41:12,322 INFO [default] Start int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] End int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] Start int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] End int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] Start int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] End int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] Start int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] End int TripleInt(int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: SmallerInt int SmallerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: SmallerInt int SmallerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: SmallerInt int SmallerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: SmallerInt int SmallerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: LargerInt int LargerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: LargerInt int LargerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: LargerInt int LargerInt(int, int)
+
+2021-01-25 19:41:12,322 INFO [default] Start: LargerInt int LargerInt(int, int)
+

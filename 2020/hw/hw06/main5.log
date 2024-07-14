@@ -1,0 +1,44 @@
+2021-03-14 22:32:40,845 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:32:40,845 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:32:40,845 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:32:40,845 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:32:40,845 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:32:40,845 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:32:40,845 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:32:40,845 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:32:40,845 INFO [default] Start void Rectangle::SetWidth(double)
+
+2021-03-14 22:32:40,846 INFO [default] End void Rectangle::SetWidth(double)
+
+2021-03-14 22:32:40,846 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:32:40,846 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:32:40,846 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:32:40,846 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:32:40,846 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:32:40,846 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:32:40,846 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:32:40,846 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:32:40,846 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:32:40,846 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:32:40,846 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:32:40,846 INFO [default] End std::__cxx11::string Rectangle::ToString()
+

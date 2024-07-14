@@ -1,0 +1,64 @@
+2021-03-14 22:32:35,665 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:32:35,665 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:32:35,665 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,665 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,665 INFO [default] End double Cube::Area()
+
+2021-03-14 22:32:35,665 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:32:35,665 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,665 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,665 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:32:35,665 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:32:35,666 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:32:35,666 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:32:35,666 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Cube::Area()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:32:35,666 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:32:35,666 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Cube::Area()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Cube::Area()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Cube::Volume()
+
+2021-03-14 22:32:35,666 INFO [default] Start double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Square::Area()
+
+2021-03-14 22:32:35,666 INFO [default] End double Cube::Volume()
+
+2021-03-14 22:32:35,666 INFO [default] End std::__cxx11::string Cube::ToString()
+

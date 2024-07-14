@@ -1,0 +1,133 @@
+2021-03-14 22:10:28,936 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:10:28,937 INFO [default] End Shape::Shape()
+
+2021-03-14 22:10:28,937 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End Line::Line(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start Rectangle::Rectangle(double, double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] End Rectangle::Rectangle(double, double)
+
+2021-03-14 22:10:28,937 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 0
+
+2021-03-14 22:10:28,937 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 0
+
+2021-03-14 22:10:28,937 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: Rectangle:
+Length: 0
+Width: 0
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:10:28,937 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 35
+
+2021-03-14 22:10:28,937 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 0
+
+2021-03-14 22:10:28,937 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: Rectangle:
+Length: 5
+Width: 7
+Area: 35
+Volume: 0
+
+
+2021-03-14 22:10:28,937 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:10:28,937 INFO [default] End Shape::Shape()
+
+2021-03-14 22:10:28,937 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End Line::Line(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start Rectangle::Rectangle(double, double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:10:28,937 INFO [default] Start void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] End void Rectangle::SetWidth(double)
+
+2021-03-14 22:10:28,937 INFO [default] End Rectangle::Rectangle(double, double)
+
+2021-03-14 22:10:28,937 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Start double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] End double Rectangle::Area()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 54
+
+2021-03-14 22:10:28,937 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: 0
+
+2021-03-14 22:10:28,937 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-14 22:10:28,937 INFO [default] Returning: Rectangle:
+Length: 6
+Width: 9
+Area: 54
+Volume: 0
+
+
+2021-03-14 22:10:28,938 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:10:28,938 INFO [default] End Shape::~Shape()
+
+2021-03-14 22:10:28,938 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:10:28,938 INFO [default] End Shape::~Shape()
+

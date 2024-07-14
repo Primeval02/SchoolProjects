@@ -1,0 +1,180 @@
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Line::Line(int)
+
+2021-03-15 19:23:37,774 INFO [default] Start void Line::SetLength(double)
+
+2021-03-15 19:23:37,774 INFO [default] End void Line::SetLength(double)
+
+2021-03-15 19:23:37,774 INFO [default] End Line::Line(int)
+
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] End Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] Start Square::Square(int)
+
+2021-03-15 19:23:37,774 INFO [default] End Square::Square(int)
+
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] End Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] Start Square::Square()
+
+2021-03-15 19:23:37,774 INFO [default] End Square::Square()
+
+2021-03-15 19:23:37,774 INFO [default] Start Cube::Cube(int)
+
+2021-03-15 19:23:37,774 INFO [default] End Cube::Cube(int)
+
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] End Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] Start Rectangle::Rectangle(int, int)
+
+2021-03-15 19:23:37,774 INFO [default] End Rectangle::Rectangle(int, int)
+
+2021-03-15 19:23:37,774 INFO [default] Start Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] End Shape::Shape()
+
+2021-03-15 19:23:37,774 INFO [default] Start Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] End Line::Line()
+
+2021-03-15 19:23:37,774 INFO [default] Start Rectangle::Rectangle()
+
+2021-03-15 19:23:37,774 INFO [default] End Rectangle::Rectangle()
+
+2021-03-15 19:23:37,774 INFO [default] Start Rectangular_Prism::Rectangular_Prism(int, int, int)
+
+2021-03-15 19:23:37,774 INFO [default] End Rectangular_Prism::Rectangular_Prism(int, int, int)
+
+2021-03-15 19:23:37,774 INFO [default] Start std::__cxx11::string Shape::ToString()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Shape::Area()
+
+2021-03-15 19:23:37,774 INFO [default] End double Shape::Area()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Shape::Volume()
+
+2021-03-15 19:23:37,774 INFO [default] End double Shape::Volume()
+
+2021-03-15 19:23:37,774 INFO [default] End std::__cxx11::string Shape::ToString()
+
+2021-03-15 19:23:37,774 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Shape::Area()
+
+2021-03-15 19:23:37,774 INFO [default] End double Shape::Area()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Shape::Volume()
+
+2021-03-15 19:23:37,774 INFO [default] End double Shape::Volume()
+
+2021-03-15 19:23:37,774 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-15 19:23:37,774 INFO [default] Start std::__cxx11::string Square::ToString()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Square::Area()
+
+2021-03-15 19:23:37,774 INFO [default] End double Square::Area()
+
+2021-03-15 19:23:37,774 INFO [default] Start double Shape::Volume()
+
+2021-03-15 19:23:37,774 INFO [default] End double Shape::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] End std::__cxx11::string Square::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start std::__cxx11::string Cube::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Cube::Area()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Square::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Square::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Cube::Area()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Cube::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Square::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Square::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Cube::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] End std::__cxx11::string Cube::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start std::__cxx11::string Rectangle::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Rectangle::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Rectangle::Area()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Shape::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] End double Shape::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] End std::__cxx11::string Rectangle::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Rectangular_Prism::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Rectangular_Prism::Area()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Rectangular_Prism::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] Start double Rectangle::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Rectangle::Area()
+
+2021-03-15 19:23:37,775 INFO [default] End double Rectangular_Prism::Volume()
+
+2021-03-15 19:23:37,775 INFO [default] End std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] Start Shape::~Shape()
+
+2021-03-15 19:23:37,775 INFO [default] End Shape::~Shape()
+

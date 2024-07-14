@@ -1,0 +1,20 @@
+2021-04-26 19:49:09,014 INFO [default] Option i chosen
+
+2021-04-26 19:49:09,014 INFO [default] Option i chosen
+
+2021-04-26 19:49:09,014 INFO [default] Option i chosen
+
+2021-04-26 19:49:09,949 INFO [default] Option c chosen
+
+2021-04-26 19:49:11,766 INFO [default] Start bool BST<T>::search(T) [with T = int]
+
+2021-04-26 19:49:11,766 INFO [default] End bool BST<T>::search(T) [with T = int]
+
+2021-04-26 19:49:14,504 INFO [default] Option c chosen
+
+2021-04-26 19:49:16,667 INFO [default] Start bool BST<T>::search(T) [with T = int]
+
+2021-04-26 19:49:16,667 INFO [default] End bool BST<T>::search(T) [with T = int]
+
+2021-04-26 19:49:18,094 INFO [default] Option x chosen
+

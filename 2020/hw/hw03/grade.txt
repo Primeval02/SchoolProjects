@@ -1,0 +1,29 @@
+7 out of 10
+
+
+your going off the end of your array when doing the sort
+
+if you look at the logfile you will clearly see this
+
+
+
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 8 and 9 their values are 590 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 8 and 9void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+
+the last valid index of an array of 10 is index 9
+
+
+
+
+in your Largest function you initialize your variable with 0  , what if all the values in the array are less than that
+
+, initialze it with a value from the array
+
+ 

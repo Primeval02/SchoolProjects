@@ -1,0 +1,147 @@
+2021-03-03 20:57:44,790 INFO [default] Start: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] End: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] incrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] Start: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] End: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] incrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] Start: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] End: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 2
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] incrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-03 20:57:44,790 INFO [default] Start: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] End: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 3
+
+2021-03-03 20:57:44,790 INFO [default] Start: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] End: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1.6 Ghz Pentium N3700 4 Cores
+500 Gb disk
+4 Gb ram
+
+
+2021-03-03 20:57:44,790 INFO [default] Start: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] End: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1.6 Ghz Pentium N3700 4 Cores
+1000 Gb disk
+8 Gb ram
+
+
+2021-03-03 20:57:44,790 INFO [default] Start: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] End: std::__cxx11::string Computer::ToString()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 2.4 Ghz Xeon E5645 6 Cores
+2000 Gb disk
+32 Gb ram
+
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Greater(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 1
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Less(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] End: bool Equal(const Computer&, const Computer&)
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] decrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] decrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] Start: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] decrementing the count
+
+2021-03-03 20:57:44,790 INFO [default] End: Computer::~Computer()
+
+2021-03-03 20:57:44,790 INFO [default] Start: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] End: static int Computer::GetCount()
+
+2021-03-03 20:57:44,790 INFO [default] Returning: 0
+

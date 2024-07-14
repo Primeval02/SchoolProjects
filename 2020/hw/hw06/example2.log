@@ -1,0 +1,131 @@
+2021-03-14 22:01:33,743 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:01:33,743 INFO [default] End Shape::Shape()
+
+2021-03-14 22:01:33,743 INFO [default] Start std::__cxx11::string Shape::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] End std::__cxx11::string Shape::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: Shape:
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:01:33,743 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:01:33,743 INFO [default] End Shape::Shape()
+
+2021-03-14 22:01:33,743 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:01:33,743 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:01:33,743 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:01:33,743 INFO [default] End Line::Line(double)
+
+2021-03-14 22:01:33,743 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: Line:
+Length: 0
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:01:33,743 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:01:33,743 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:01:33,743 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Area()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,743 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,743 INFO [default] Returning: Line:
+Length: 5
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:01:33,743 INFO [default] Start Shape::Shape()
+
+2021-03-14 22:01:33,744 INFO [default] End Shape::Shape()
+
+2021-03-14 22:01:33,744 INFO [default] Start Line::Line(double)
+
+2021-03-14 22:01:33,744 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:01:33,744 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:01:33,744 INFO [default] End Line::Line(double)
+
+2021-03-14 22:01:33,744 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,744 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:01:33,744 INFO [default] End double Shape::Area()
+
+2021-03-14 22:01:33,744 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,744 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:01:33,744 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:01:33,744 INFO [default] Returning: 0
+
+2021-03-14 22:01:33,744 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-14 22:01:33,744 INFO [default] Returning: Line:
+Length: 9
+Area: 0
+Volume: 0
+
+
+2021-03-14 22:01:33,744 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:01:33,744 INFO [default] End Shape::~Shape()
+
+2021-03-14 22:01:33,744 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:01:33,744 INFO [default] End Shape::~Shape()
+
+2021-03-14 22:01:33,744 INFO [default] Start Shape::~Shape()
+
+2021-03-14 22:01:33,744 INFO [default] End Shape::~Shape()
+

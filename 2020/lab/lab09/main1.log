@@ -1,0 +1,36 @@
+2021-02-24 14:52:27,146 INFO [default] Start Computer::Computer()
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::Computer()
+
+2021-02-24 14:52:27,146 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] Start Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-02-24 14:52:27,146 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] Start Computer::Computer(const Computer&)
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::Computer(const Computer&)
+
+2021-02-24 14:52:27,146 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-02-24 14:52:27,146 INFO [default] Start Computer::~Computer()
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::~Computer()
+
+2021-02-24 14:52:27,146 INFO [default] Start Computer::~Computer()
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::~Computer()
+
+2021-02-24 14:52:27,146 INFO [default] Start Computer::~Computer()
+
+2021-02-24 14:52:27,146 INFO [default] End Computer::~Computer()
+

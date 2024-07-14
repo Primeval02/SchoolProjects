@@ -1,0 +1,30 @@
+SIntArray:
+Array Address0x7ffe71cf1cf0
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+DIntArray:
+Array Address0x1edbc20
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+SIntArray:
+Array Address0x7ffe71cf1cf0
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+DIntArray:
+Array Address0x1edbc20
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+SIntArray:
+1st:0x7ffe71cf1cf0
+2nd:0x7ffe71cf1cf4
+5th:0x7ffe71cf1d00
+DIntArray:
+1st:0x1edbc20
+2nd:0x1edbc24
+5th:0x1edbc30
+SIntArray:
+1st:0x7ffe71cf1cf0
+2nd:0x7ffe71cf1cf4
+5th:0x7ffe71cf1d00
+DIntArray:
+1st:0x1edbc20
+2nd:0x1edbc24
+5th:0x1edbc30
+temp contains the address 0x7ffe71cf1d00 and points to the value 4
+temp contains the address 0x1edbc30 and points to the value 4

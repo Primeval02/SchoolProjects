@@ -1,0 +1,158 @@
+2021-04-23 14:05:23,071 INFO [default] Start SLinkedList<T>::SLinkedList() [with T = int]
+
+2021-04-23 14:05:23,071 INFO [default] End SLinkedList<T>::SLinkedList() [with T = int]
+
+2021-04-23 14:05:27,682 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Start bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] End bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:27,683 INFO [default] Returning bool SLinkedList<T>::Insert(T) [with T = int]
+
+2021-04-23 14:05:28,754 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:28,755 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:28,755 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:32,482 INFO [default] Start bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:32,483 INFO [default] Start SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:32,483 INFO [default] End SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:32,483 INFO [default] Returning SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:32,483 INFO [default] End bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:32,483 INFO [default] Returning 1bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:33,658 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:33,658 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:33,658 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:45,059 INFO [default] Start bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:45,059 INFO [default] Start SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:45,059 INFO [default] End SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:45,059 INFO [default] Returning SLinkedList<T>::SListNode* SLinkedList<T>::Search(T) [with T = int]
+
+2021-04-23 14:05:45,059 INFO [default] End bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:45,059 INFO [default] Returning 1bool SLinkedList<T>::InsertAfter(T, T) [with T = int]
+
+2021-04-23 14:05:45,915 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:45,915 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:45,915 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:54,427 INFO [default] Start bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:05:54,427 INFO [default] Start bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:54,427 INFO [default] End bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:54,427 INFO [default] Returning 0bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:54,427 INFO [default] End bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:05:54,427 INFO [default] Returning 1
+
+2021-04-23 14:05:55,683 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:55,683 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:55,683 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:05:59,563 INFO [default] Start bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:05:59,563 INFO [default] Start bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:59,563 INFO [default] End bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:59,563 INFO [default] Returning 0bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:05:59,563 INFO [default] End bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:05:59,563 INFO [default] Returning 0
+
+2021-04-23 14:06:01,970 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:01,970 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:01,970 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:05,667 INFO [default] Start bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:06:05,667 INFO [default] Start bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:05,667 INFO [default] End bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:05,667 INFO [default] Returning 0bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:05,667 INFO [default] End bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:06:05,667 INFO [default] Returning 1
+
+2021-04-23 14:06:06,850 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:06,850 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:06,850 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:11,850 INFO [default] Start bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:06:11,850 INFO [default] Start bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:11,850 INFO [default] End bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:11,850 INFO [default] Returning 0bool SLinkedList<T>::empty() [with T = int]
+
+2021-04-23 14:06:11,850 INFO [default] End bool SLinkedList<T>::Delete(T) [with T = int]
+
+2021-04-23 14:06:11,850 INFO [default] Returning 1
+
+2021-04-23 14:06:13,307 INFO [default] Start std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:13,307 INFO [default] End std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:13,307 INFO [default] Returning std::__cxx11::string SLinkedList<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:06:15,994 INFO [default] Start SLinkedList<T>::~SLinkedList() [with T = int]
+
+2021-04-23 14:06:15,994 INFO [default] End SLinkedList<T>::~SLinkedList() [with T = int]
+

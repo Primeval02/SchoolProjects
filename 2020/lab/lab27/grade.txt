@@ -1,0 +1,14 @@
+4 out or 5
+
+  cout << "our iterator points to the value 10" << endl;
+  cout << "incrementing the iterator" << endl;
+  it++;
+  cout << "our iterator now points to the value 20" << endl;
+// print out the value
+
+
+so did it really????
+
+how do you know?
+
+

@@ -1,0 +1,92 @@
+2021-03-04 11:35:05,013 INFO [default] Start static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] End static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] Start Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,013 INFO [default] End Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,013 INFO [default] Start static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] End static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] Start Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,013 INFO [default] End Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,013 INFO [default] Start static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] End static int Computer::GetCount()
+
+2021-03-04 11:35:05,013 INFO [default] Start Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,014 INFO [default] End Computer::Computer(int, double, int, int, std::__cxx11::string)
+
+2021-03-04 11:35:05,014 INFO [default] Start static int Computer::GetCount()
+
+2021-03-04 11:35:05,014 INFO [default] End static int Computer::GetCount()
+
+2021-03-04 11:35:05,014 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] Start std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] End std::__cxx11::string Computer::ToString()
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Greater(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Less(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] End bool Equal(const Computer&, const Computer&)
+
+2021-03-04 11:35:05,014 INFO [default] Start Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] End Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] Start Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] End Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] Start Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] End Computer::~Computer()
+
+2021-03-04 11:35:05,014 INFO [default] Start static int Computer::GetCount()
+
+2021-03-04 11:35:05,014 INFO [default] End static int Computer::GetCount()
+

@@ -1,0 +1,1532 @@
+2021-02-15 19:43:07,085 INFO [default] Start int Sort1(int*, int)
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,086 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,087 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,088 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,089 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,090 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,091 INFO [default] End int Sort1(int*, int)
+
+2021-02-15 19:43:07,091 INFO [default] Returning 380
+
+2021-02-15 19:43:07,091 INFO [default] Start int Sort2(int*, int)
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,091 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,092 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,093 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] End int Sort2(int*, int)
+
+2021-02-15 19:43:07,094 INFO [default] Returning 190
+
+2021-02-15 19:43:07,094 INFO [default] Start int Sort3(int*, int)
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,094 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 18 with position 19
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 17 with position 18
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 16 with position 17
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 15 with position 16
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,095 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 14 with position 15
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 13 with position 14
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 12 with position 13
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 11 with position 12
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 10 with position 11
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,096 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 9 with position 10
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 8 with position 9
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 7 with position 8
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 6 with position 7
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 5 with position 6
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 4 with position 5
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 3 with position 4
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 0 with position 1
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 1 with position 2
+
+2021-02-15 19:43:07,097 INFO [default] comparing position 2 with position 3
+
+2021-02-15 19:43:07,097 INFO [default] End int Sort3(int*, int)
+
+2021-02-15 19:43:07,097 INFO [default] Returning 187
+

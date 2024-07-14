@@ -1,0 +1,40 @@
+2021-03-14 22:07:24,738 INFO [default] Start std::__cxx11::string Square::ToString()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] End double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End std::__cxx11::string Square::ToString()
+
+2021-03-14 22:07:24,738 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:07:24,738 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:07:24,738 INFO [default] Start std::__cxx11::string Square::ToString()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] End double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End std::__cxx11::string Square::ToString()
+
+2021-03-14 22:07:24,738 INFO [default] Start std::__cxx11::string Square::ToString()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] End double Square::Area()
+
+2021-03-14 22:07:24,738 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:07:24,738 INFO [default] End std::__cxx11::string Square::ToString()
+

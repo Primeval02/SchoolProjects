@@ -1,0 +1,366 @@
+2021-02-23 08:37:30,413 INFO [default] Start void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] End void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Start void FillArrayWithRandom(CFraction*, int)
+
+2021-02-23 08:37:30,414 INFO [default] End void FillArrayWithRandom(CFraction*, int)
+
+2021-02-23 08:37:30,414 INFO [default] Start void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] End void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Start void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Comparing positions 0 and 1 their values are 93/87 and 4/16void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Swapping positions 0 and 1void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Comparing positions 1 and 2 their values are 93/87 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Swapping positions 1 and 2void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,414 INFO [default] Comparing positions 2 and 3 their values are 93/87 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 2 and 3void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 93/87 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 3 and 4void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 19/8 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 5 and 6void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 19/8 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 6 and 7void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 93/87 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 4 and 5void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 93/87 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 5 and 6void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 91/100 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 4 and 5void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 3 and 4void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 41/80 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Swapping positions 2 and 3void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 26/54 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 2 and 3 their values are 26/54 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 3 and 4 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 4 and 5 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,415 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 26/54void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 2 and 3 their values are 26/54 and 41/80void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 3 and 4 their values are 41/80 and 29/36void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 4 and 5 their values are 29/36 and 91/100void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 5 and 6 their values are 91/100 and 93/87void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 6 and 7 their values are 93/87 and 19/8void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 7 and 8 their values are 19/8 and 719204464/21875void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] End void SortAscending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Start void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] End void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Start void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 0 and 1 their values are 4/16 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 1 and 2 their values are 4/16 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 2 and 3 their values are 4/16 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 3 and 4 their values are 4/16 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 4 and 5 their values are 4/16 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 5 and 6 their values are 4/16 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 6 and 7 their values are 4/16 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 6 and 7void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 0 and 1 their values are 14/37 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 1 and 2 their values are 14/37 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 2 and 3 their values are 14/37 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 3 and 4 their values are 14/37 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 4 and 5 their values are 14/37 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 5 and 6 their values are 14/37 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 0 and 1 their values are 26/54 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 1 and 2 their values are 26/54 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 2 and 3 their values are 26/54 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 3 and 4 their values are 26/54 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 4 and 5 their values are 26/54 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Comparing positions 0 and 1 their values are 41/80 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,416 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 1 and 2 their values are 41/80 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 2 and 3 their values are 41/80 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 3 and 4 their values are 41/80 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 4 and 5 their values are 41/80 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 0 and 1 their values are 29/36 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 1 and 2 their values are 29/36 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 2 and 3 their values are 29/36 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 4 and 5 their values are 41/80 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 0 and 1 their values are 91/100 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 1 and 2 their values are 91/100 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 2 and 3 their values are 91/100 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 4 and 5 their values are 41/80 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 0 and 1 their values are 93/87 and 19/8void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 1 and 2 their values are 93/87 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 2 and 3 their values are 91/100 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 4 and 5 their values are 41/80 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 0 and 1 their values are 19/8 and 93/87void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 1 and 2 their values are 93/87 and 91/100void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 2 and 3 their values are 91/100 and 29/36void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 3 and 4 their values are 29/36 and 41/80void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 4 and 5 their values are 41/80 and 26/54void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 5 and 6 their values are 26/54 and 14/37void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 6 and 7 their values are 14/37 and 4/16void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Comparing positions 7 and 8 their values are 4/16 and 719204464/21875void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] End void SortDescending(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Start void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] End void PrintArray(T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Start T LargestInArray(const T*, int) [with T = CFraction]
+
+2021-02-23 08:37:30,417 INFO [default] Start T SmallestInArray(const T*, int) [with T = CFraction]
+

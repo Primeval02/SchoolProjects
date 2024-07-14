@@ -1,0 +1,232 @@
+2021-04-23 14:01:50,432 INFO [default] Start Stack<T>::Stack(int) [with T = int]
+
+2021-04-23 14:01:50,432 INFO [default] End Stack<T>::Stack(int) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,476 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:54,477 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Start std::__cxx11::string Stack<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:01:55,412 INFO [default] Start int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Returning int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End std::__cxx11::string Stack<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:01:55,412 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:01:55,412 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Start bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] End bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Returning bool Stack<T>::Push(T) [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:03,700 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Start std::__cxx11::string Stack<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:02:05,068 INFO [default] Start int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Returning int Stack<T>::Capacity() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Start bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Returning bool Stack<T>::full() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End std::__cxx11::string Stack<T>::ToString() [with T = int; std::__cxx11::string = std::__cxx11::basic_string<char>]
+
+2021-04-23 14:02:05,068 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:05,068 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] Start T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] End T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] Start bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] End bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] Returning bool Stack<T>::empty() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] Returning T Stack<T>::top() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] Start Stack<T>::~Stack() [with T = int]
+
+2021-04-23 14:02:19,019 INFO [default] End Stack<T>::~Stack() [with T = int]
+

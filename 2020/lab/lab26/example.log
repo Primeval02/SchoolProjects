@@ -1,0 +1,112 @@
+2021-05-05 18:45:39,897 INFO [default] Start HashTable::HashTable()
+
+2021-05-05 18:45:39,897 INFO [default] End HashTable::HashTable()
+
+2021-05-05 18:45:39,897 INFO [default] Start bool HashTable::insert(int)
+
+2021-05-05 18:45:39,897 INFO [default] Start bool HashTable::full()
+
+2021-05-05 18:45:39,897 INFO [default] End bool HashTable::full()
+
+2021-05-05 18:45:39,897 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,897 INFO [default] End bool HashTable::insert(int)
+
+2021-05-05 18:45:39,897 INFO [default] Returning: true
+
+2021-05-05 18:45:39,897 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,897 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,897 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,897 INFO [default] End bool HashTable::remove(int)
+
+2021-05-05 18:45:39,897 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::remove(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::remove(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 1
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::remove(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: false
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::full()
+
+2021-05-05 18:45:39,898 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,898 INFO [default] End bool HashTable::insert(int)
+
+2021-05-05 18:45:39,898 INFO [default] Returning: true
+
+2021-05-05 18:45:39,898 INFO [default] Start bool HashTable::search(int)
+
+2021-05-05 18:45:39,899 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,899 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,899 INFO [default] Returning: 0
+
+2021-05-05 18:45:39,899 INFO [default] End bool HashTable::search(int)
+
+2021-05-05 18:45:39,899 INFO [default] Returning: true
+
+2021-05-05 18:45:39,899 INFO [default] Start bool HashTable::search(int)
+
+2021-05-05 18:45:39,899 INFO [default] Start bool HashTable::empty()
+
+2021-05-05 18:45:39,899 INFO [default] End bool HashTable::empty()
+
+2021-05-05 18:45:39,899 INFO [default] Returning: 0
+

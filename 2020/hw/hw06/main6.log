@@ -1,0 +1,60 @@
+2021-04-23 14:00:52,864 INFO [default] Start std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] End std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-04-23 14:00:52,865 INFO [default] Start void Line::SetLength(double)
+
+2021-04-23 14:00:52,865 INFO [default] End void Line::SetLength(double)
+
+2021-04-23 14:00:52,865 INFO [default] Start void Rectangle::SetWidth(double)
+
+2021-04-23 14:00:52,865 INFO [default] End void Rectangle::SetWidth(double)
+
+2021-04-23 14:00:52,865 INFO [default] Start void Rectangular_Prism::SetDepth(double)
+
+2021-04-23 14:00:52,865 INFO [default] End void Rectangular_Prism::SetDepth(double)
+
+2021-04-23 14:00:52,865 INFO [default] Start std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] End std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-04-23 14:00:52,865 INFO [default] Start std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Area()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] Start double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangle::Area()
+
+2021-04-23 14:00:52,865 INFO [default] End double Rectangular_Prism::Volume()
+
+2021-04-23 14:00:52,865 INFO [default] End std::__cxx11::string Rectangular_Prism::ToString()
+

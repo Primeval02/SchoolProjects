@@ -1,0 +1,48 @@
+2021-03-17 18:23:11,328 INFO [default] Start void demo<T>::setData(T) [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] End void demo<T>::setData(T) [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] Start T demo<T>::getData() [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] End T demo<T>::getData() [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] Start std::ostream& operator<<(std::ostream&, demo<int>&)
+
+2021-03-17 18:23:11,328 INFO [default] End std::ostream& operator<<(std::ostream&, demo<int>&)
+
+2021-03-17 18:23:11,328 INFO [default] Start void demo<T>::setData(T) [with T = double]
+
+2021-03-17 18:23:11,328 INFO [default] End void demo<T>::setData(T) [with T = double]
+
+2021-03-17 18:23:11,328 INFO [default] Start T demo<T>::getData() [with T = double]
+
+2021-03-17 18:23:11,328 INFO [default] End T demo<T>::getData() [with T = double]
+
+2021-03-17 18:23:11,328 INFO [default] Start std::ostream& operator<<(std::ostream&, demo<double>&)
+
+2021-03-17 18:23:11,328 INFO [default] End std::ostream& operator<<(std::ostream&, demo<double>&)
+
+2021-03-17 18:23:11,328 INFO [default] Start void demo<T>::setData(T) [with T = std::__cxx11::basic_string<char>]
+
+2021-03-17 18:23:11,328 INFO [default] End void demo<T>::setData(T) [with T = std::__cxx11::basic_string<char>]
+
+2021-03-17 18:23:11,328 INFO [default] Start T demo<T>::getData() [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] End T demo<T>::getData() [with T = int]
+
+2021-03-17 18:23:11,328 INFO [default] Start std::ostream& operator<<(std::ostream&, demo<std::__cxx11::basic_string<char> >&)
+
+2021-03-17 18:23:11,328 INFO [default] End std::ostream& operator<<(std::ostream&, demo<std::__cxx11::basic_string<char> >&)
+
+2021-03-17 18:23:11,329 INFO [default] Start void demo<T>::setData(T) [with T = CFraction]
+
+2021-03-17 18:23:11,329 INFO [default] End void demo<T>::setData(T) [with T = CFraction]
+
+2021-03-17 18:23:11,329 INFO [default] Start T demo<T>::getData() [with T = CFraction]
+
+2021-03-17 18:23:11,329 INFO [default] End T demo<T>::getData() [with T = CFraction]
+
+2021-03-17 18:23:11,329 INFO [default] Start std::ostream& operator<<(std::ostream&, demo<CFraction>&)
+
+2021-03-17 18:23:11,329 INFO [default] End std::ostream& operator<<(std::ostream&, demo<CFraction>&)
+

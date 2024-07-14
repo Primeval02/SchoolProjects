@@ -1,0 +1,574 @@
+2021-02-23 08:37:28,086 INFO [default] Start void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] End void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] Start void FillArrayWithRandom(T*, int, int, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] End void FillArrayWithRandom(T*, int, int, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] Start void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] End void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,086 INFO [default] Start void FillArrayWithRandom(T*, int, int, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] End void FillArrayWithRandom(T*, int, int, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Start void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] End void PrintArray(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Start T LargestInArray(const T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Start T SmallestInArray(const T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Start void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 1 and 2 their values are 515 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 2 and 3 their values are 548 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 2 and 3void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 3 and 4 their values are 548 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 4 and 5 their values are 590 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 4 and 5void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 5 and 6 their values are 590 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 5 and 6void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 6 and 7 their values are 590 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 6 and 7void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 7 and 8 their values are 590 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 7 and 8void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 8 and 9 their values are 590 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 8 and 9void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 1 and 2 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 2 and 3 their values are 521 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 3 and 4 their values are 548 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 3 and 4void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 4 and 5 their values are 548 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 4 and 5void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 5 and 6 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 6 and 7 their values are 557 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 6 and 7void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 7 and 8 their values are 557 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Swapping positions 7 and 8void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,087 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 1 and 2 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 2 and 3 their values are 521 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 3 and 4 their values are 529 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 3 and 4void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 4 and 5 their values are 529 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 5 and 6 their values are 548 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 5 and 6void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 6 and 7 their values are 548 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 6 and 7void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 1 and 2 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 2 and 3 their values are 521 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 2 and 3void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 3 and 4 their values are 521 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 4 and 5 their values are 529 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 4 and 5void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 0 and 1 their values are 54 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 1 and 2 their values are 515 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Swapping positions 1 and 2void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 1 and 2 their values are 513 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 1 and 2 their values are 513 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,088 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 1 and 2 their values are 513 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 1 and 2 their values are 513 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 1 and 2 their values are 513 and 515void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 2 and 3 their values are 515 and 521void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 3 and 4 their values are 521 and 527void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 4 and 5 their values are 527 and 529void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 5 and 6 their values are 529 and 546void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 6 and 7 their values are 546 and 548void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 7 and 8 their values are 548 and 557void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 8 and 9 their values are 557 and 590void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 9 and 10 their values are 590 and 1220974656void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] End void SortAscending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Start void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 0 and 1 their values are 54 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 1 and 2 their values are 54 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 2 and 3 their values are 54 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 3 and 4 their values are 54 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 4 and 5 their values are 54 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 5 and 6 their values are 54 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 6 and 7 their values are 54 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 6 and 7void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 7 and 8 their values are 54 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 7 and 8void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 8 and 9 their values are 54 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 8 and 9void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 9 and 10 their values are 54 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 9 and 10void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Comparing positions 0 and 1 their values are 513 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,089 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 1 and 2 their values are 513 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 2 and 3 their values are 513 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 3 and 4 their values are 513 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 4 and 5 their values are 513 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 5 and 6 their values are 513 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 6 and 7 their values are 513 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 6 and 7void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 7 and 8 their values are 513 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 7 and 8void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 8 and 9 their values are 513 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 8 and 9void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 0 and 1 their values are 515 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 1 and 2 their values are 515 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 2 and 3 their values are 515 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 3 and 4 their values are 515 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 4 and 5 their values are 515 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 5 and 6 their values are 515 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 6 and 7 their values are 515 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 6 and 7void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 7 and 8 their values are 515 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 7 and 8void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 0 and 1 their values are 521 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 1 and 2 their values are 521 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 2 and 3 their values are 521 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 3 and 4 their values are 521 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 4 and 5 their values are 521 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 5 and 6 their values are 521 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 6 and 7 their values are 521 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 6 and 7void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 0 and 1 their values are 527 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 1 and 2 their values are 527 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,090 INFO [default] Comparing positions 2 and 3 their values are 527 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 3 and 4 their values are 527 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 4 and 5 their values are 527 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 5 and 6 their values are 527 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 5 and 6void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 0 and 1 their values are 529 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 1 and 2 their values are 529 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 2 and 3 their values are 529 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 3 and 4 their values are 529 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 4 and 5 their values are 529 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 4 and 5void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 5 and 6 their values are 529 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 0 and 1 their values are 546 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 1 and 2 their values are 546 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 2 and 3 their values are 546 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 3 and 4 their values are 546 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 3 and 4void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 4 and 5 their values are 546 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 5 and 6 their values are 529 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 0 and 1 their values are 548 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 1 and 2 their values are 548 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 2 and 3 their values are 548 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 2 and 3void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 3 and 4 their values are 548 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 4 and 5 their values are 546 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 5 and 6 their values are 529 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 0 and 1 their values are 557 and 590void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Comparing positions 1 and 2 their values are 557 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,091 INFO [default] Swapping positions 1 and 2void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 2 and 3 their values are 557 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 3 and 4 their values are 548 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 4 and 5 their values are 546 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 5 and 6 their values are 529 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 0 and 1 their values are 590 and 1220974656void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Swapping positions 0 and 1void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 1 and 2 their values are 590 and 557void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 2 and 3 their values are 557 and 548void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 3 and 4 their values are 548 and 546void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 4 and 5 their values are 546 and 529void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 5 and 6 their values are 529 and 527void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 6 and 7 their values are 527 and 521void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 7 and 8 their values are 521 and 515void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 8 and 9 their values are 515 and 513void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] Comparing positions 9 and 10 their values are 513 and 54void SortDescending(T*, int) [with T = int]
+
+2021-02-23 08:37:28,092 INFO [default] End void SortDescending(T*, int) [with T = int]
+

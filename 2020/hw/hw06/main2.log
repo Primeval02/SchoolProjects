@@ -1,0 +1,56 @@
+2021-03-14 22:06:43,212 INFO [default] Start std::__cxx11::string Shape::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End std::__cxx11::string Shape::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:06:43,212 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:06:43,212 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End std::__cxx11::string Line::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start void Line::SetLength(double)
+
+2021-03-14 22:06:43,212 INFO [default] End void Line::SetLength(double)
+
+2021-03-14 22:06:43,212 INFO [default] Start std::__cxx11::string Line::ToString()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Area()
+
+2021-03-14 22:06:43,212 INFO [default] Start double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End double Shape::Volume()
+
+2021-03-14 22:06:43,212 INFO [default] End std::__cxx11::string Line::ToString()
+

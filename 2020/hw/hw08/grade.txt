@@ -1,0 +1,9 @@
+14 out of 20
+
+well your resize has a memory leak
+you never delete the old array
+
+your desctructor does not delete the array
+
+
+

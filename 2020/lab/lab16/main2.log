@@ -1,0 +1,170 @@
+2021-03-22 18:42:39,689 INFO [default] Start Queue::Queue()
+
+2021-03-22 18:42:39,689 INFO [default] End Queue::Queue()
+
+2021-03-22 18:42:39,689 INFO [default] Start std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,689 INFO [default] Start int Queue::size()
+
+2021-03-22 18:42:39,689 INFO [default] End int Queue::size()
+
+2021-03-22 18:42:39,689 INFO [default] Returning: 0
+
+2021-03-22 18:42:39,689 INFO [default] Start bool Queue::empty()
+
+2021-03-22 18:42:39,689 INFO [default] End bool Queue::empty()
+
+2021-03-22 18:42:39,689 INFO [default] Returning bool Queue::empty()
+
+2021-03-22 18:42:39,689 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] End std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,689 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,689 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,689 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,689 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,689 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,690 INFO [default] Start int Queue::size()
+
+2021-03-22 18:42:39,690 INFO [default] End int Queue::size()
+
+2021-03-22 18:42:39,690 INFO [default] Returning: 4
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::empty()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::empty()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::empty()
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,690 INFO [default] End bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Returning bool Queue::enQueue(int)
+
+2021-03-22 18:42:39,690 INFO [default] Start std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,690 INFO [default] Start int Queue::size()
+
+2021-03-22 18:42:39,690 INFO [default] End int Queue::size()
+
+2021-03-22 18:42:39,690 INFO [default] Returning: 4
+
+2021-03-22 18:42:39,690 INFO [default] Start bool Queue::empty()
+
+2021-03-22 18:42:39,691 INFO [default] End bool Queue::empty()
+
+2021-03-22 18:42:39,691 INFO [default] Returning bool Queue::empty()
+
+2021-03-22 18:42:39,691 INFO [default] Start bool Queue::full()
+
+2021-03-22 18:42:39,691 INFO [default] End bool Queue::full()
+
+2021-03-22 18:42:39,691 INFO [default] Returning bool Queue::full()
+
+2021-03-22 18:42:39,691 INFO [default] End std::__cxx11::string Queue::ToString()
+
+2021-03-22 18:42:39,691 INFO [default] Start Queue::~Queue()
+
+2021-03-22 18:42:39,691 INFO [default] End Queue::~Queue()
+

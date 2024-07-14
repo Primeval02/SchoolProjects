@@ -1,0 +1,300 @@
+2021-03-15 20:22:16,186 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] Start: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] Start: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: Square::Square(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: Square::Square(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,186 INFO [default] Start: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: Line::Line(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: Square::Square(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,186 INFO [default] End: Square::Square(double)
+
+2021-03-15 20:22:16,186 INFO [default] Start: Cube::Cube(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Cube::Cube(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,187 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,187 INFO [default] Start: Line::Line(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Line::Line(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: Rectangle::Rectangle(double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Rectangle::Rectangle(double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: Shape::Shape()
+
+2021-03-15 20:22:16,187 INFO [default] End: Shape::Shape()
+
+2021-03-15 20:22:16,187 INFO [default] Start: Line::Line(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Line::Line(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: Rectangle::Rectangle(double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Rectangle::Rectangle(double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: Rectangular_Prism::Rectangular_Prism(double, double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Line::SetLength(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Rectangle::SetWidth(double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: void Rectangular_Prism::SetDepth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: void Rectangular_Prism::SetDepth(double)
+
+2021-03-15 20:22:16,187 INFO [default] End: Rectangular_Prism::Rectangular_Prism(double, double, double)
+
+2021-03-15 20:22:16,187 INFO [default] Start: std::__cxx11::string Shape::ToString()
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Shape::Area()
+
+2021-03-15 20:22:16,187 INFO [default] End: double Shape::Area()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Shape::Volume()
+
+2021-03-15 20:22:16,187 INFO [default] End: double Shape::Volume()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,187 INFO [default] End: std::__cxx11::string Shape::ToString()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: Shape:
+Area: 0
+Volume: 0
+
+
+2021-03-15 20:22:16,187 INFO [default] Start: std::__cxx11::string Cube::ToString()
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Cube::Area()
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Square::Area()
+
+2021-03-15 20:22:16,187 INFO [default] End: double Square::Area()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 25
+
+2021-03-15 20:22:16,187 INFO [default] End: double Cube::Area()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 150
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Cube::Volume()
+
+2021-03-15 20:22:16,187 INFO [default] Start: double Square::Area()
+
+2021-03-15 20:22:16,187 INFO [default] End: double Square::Area()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 25
+
+2021-03-15 20:22:16,187 INFO [default] End: double Cube::Volume()
+
+2021-03-15 20:22:16,187 INFO [default] Returning: 125
+
+2021-03-15 20:22:16,188 INFO [default] End: std::__cxx11::string Cube::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: Cube:
+Length: 5
+Area: 150
+Volume: 125
+
+
+2021-03-15 20:22:16,188 INFO [default] Start: std::__cxx11::string Square::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Square::Area()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Square::Area()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 25
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,188 INFO [default] End: std::__cxx11::string Square::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: Square:
+Length: 5
+Area: 25
+Volume: 0
+
+
+2021-03-15 20:22:16,188 INFO [default] Start: std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Rectangular_Prism::Area()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Rectangular_Prism::Area()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 550
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Rectangular_Prism::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Rectangle::Area()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Rectangle::Area()
+
+2021-03-15 20:22:16,188 INFO [default] Returning:: 50
+
+2021-03-15 20:22:16,188 INFO [default] End: double Rectangular_Prism::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 750
+
+2021-03-15 20:22:16,188 INFO [default] End: std::__cxx11::string Rectangular_Prism::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: Rectangular_Prism:
+Length: 5
+Width: 10
+Depth: 15
+Area: 550
+Volume: 750
+
+
+2021-03-15 20:22:16,188 INFO [default] Start: std::__cxx11::string Rectangle::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Rectangle::Area()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Rectangle::Area()
+
+2021-03-15 20:22:16,188 INFO [default] Returning:: 50
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,188 INFO [default] End: std::__cxx11::string Rectangle::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Returning:: Rectangle:
+Length: 5
+Width: 10
+Area: 50
+Volume: 0
+
+
+2021-03-15 20:22:16,188 INFO [default] Start: std::__cxx11::string Line::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Shape::Area()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Shape::Area()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,188 INFO [default] Start: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] End: double Shape::Volume()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: 0
+
+2021-03-15 20:22:16,188 INFO [default] End: std::__cxx11::string Line::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Returning: std::__cxx11::string Line::ToString()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] Start: Shape::~Shape()
+
+2021-03-15 20:22:16,188 INFO [default] End: Shape::~Shape()
+

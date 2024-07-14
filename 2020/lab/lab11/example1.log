@@ -1,0 +1,89 @@
+2021-03-03 20:38:45,695 INFO [default] Start DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] at the beginning of the  constructor the pointer data is 0x1
+
+2021-03-03 20:38:45,695 INFO [default] setting the pointer "data" to a new array of size 5
+
+2021-03-03 20:38:45,695 INFO [default] at the end  of the  constructor the pointer data is 0x55aa1c711f78 , it should be different than what it was 
+2021-03-03 20:38:45,695 INFO [default] End DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] Start DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] at the beginning of the  constructor the pointer data is 0x1
+
+2021-03-03 20:38:45,695 INFO [default] setting the pointer "data" to a new array of size 5
+
+2021-03-03 20:38:45,695 INFO [default] at the end  of the  constructor the pointer data is 0x55aa1c712208 , it should be different than what it was 
+2021-03-03 20:38:45,695 INFO [default] End DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] Start DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] at the beginning of the  constructor the pointer data is 0x7fff4ad84ea0
+
+2021-03-03 20:38:45,695 INFO [default] setting the pointer "data" to a new array of size 7
+
+2021-03-03 20:38:45,695 INFO [default] at the end  of the  constructor the pointer data is 0x55aa1c7122b8 , it should be different than what it was 
+2021-03-03 20:38:45,695 INFO [default] End DynamicArray::DynamicArray(int)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,695 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] Start bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,696 INFO [default] End bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,696 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-03 20:38:45,696 INFO [default] Start bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,696 INFO [default] End bool DynamicArray::operator==(const DynamicArray&)
+
+2021-03-03 20:38:45,696 INFO [default] Start DynamicArray::~DynamicArray()
+
+2021-03-03 20:38:45,696 INFO [default] calling delete[] on the pointer "data" 
+
+2021-03-03 20:38:45,696 INFO [default] End DynamicArray::~DynamicArray()
+
+2021-03-03 20:38:45,696 INFO [default] Start DynamicArray::~DynamicArray()
+
+2021-03-03 20:38:45,696 INFO [default] calling delete[] on the pointer "data" 
+
+2021-03-03 20:38:45,696 INFO [default] End DynamicArray::~DynamicArray()
+
+2021-03-03 20:38:45,696 INFO [default] Start DynamicArray::~DynamicArray()
+
+2021-03-03 20:38:45,696 INFO [default] calling delete[] on the pointer "data" 
+
+2021-03-03 20:38:45,696 INFO [default] End DynamicArray::~DynamicArray()
+

@@ -1,0 +1,16 @@
+2021-03-22 18:42:35,681 INFO [default] Start Queue::Queue()
+
+2021-03-22 18:42:35,681 INFO [default] End Queue::Queue()
+
+2021-03-22 18:42:35,681 INFO [default] Start int Queue::peekFront()
+
+2021-03-22 18:42:35,681 INFO [default] Start bool Queue::empty()
+
+2021-03-22 18:42:35,681 INFO [default] End bool Queue::empty()
+
+2021-03-22 18:42:35,681 INFO [default] Returning bool Queue::empty()
+
+2021-03-22 18:42:35,681 INFO [default] Start Queue::~Queue()
+
+2021-03-22 18:42:35,681 INFO [default] End Queue::~Queue()
+

@@ -1,0 +1,23 @@
+
+grading checklist , check this before asking the instructor to grade your lab or homework
+
+
+the FIRST line of EVERY function is a call to LogStart
+
+you pass all the values that were passed to the function to LogStart (and NOTHING else)
+
+if the function DOES NOT return void then you use LogEndReturning directly BEFORE the return statement
+
+if the function DOES return void you use LogEnd and pass it the same values you used for LogStart
+
+when you compile there are no warnings
+
+your output to the console matches that of the runable example
+
+your output to the logfile matches that of the runable example
+
+you actually logout of your account with logout or exit
+
+
+
+

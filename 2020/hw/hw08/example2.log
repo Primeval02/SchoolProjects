@@ -1,0 +1,2072 @@
+2021-03-28 15:56:54,912 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Returning true
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Returning 0
+
+2021-03-28 15:56:54,912 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Returning true
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Returning 0
+
+2021-03-28 15:56:54,912 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Returning true
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,912 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning true
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,913 INFO [default] Returning 0
+
+2021-03-28 15:56:54,913 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning true
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,914 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning 0
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Returning true
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,915 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning 0
+
+2021-03-28 15:56:54,916 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Returning true
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,916 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning true
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,917 INFO [default] Returning 0
+
+2021-03-28 15:56:54,917 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Empty() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning 0
+
+2021-03-28 15:56:54,918 INFO [default] End bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Returning true
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Pop() [with T = int]
+
+2021-03-28 15:56:54,918 INFO [default] Start bool Stack<T>::Empty() [with T = int]
+

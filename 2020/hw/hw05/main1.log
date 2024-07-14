@@ -1,0 +1,88 @@
+2021-03-07 22:03:06,114 INFO [default] Start static int DynamicArray::GetObjectCount()
+
+2021-03-07 22:03:06,114 INFO [default] End static int DynamicArray::GetObjectCount()
+
+2021-03-07 22:03:06,114 INFO [default] Start DynamicArray::DynamicArray(int)
+
+2021-03-07 22:03:06,114 INFO [default] EndDynamicArray::DynamicArray(int)
+
+2021-03-07 22:03:06,114 INFO [default] Start std::__cxx11::string DynamicArray::ToString()
+
+2021-03-07 22:03:06,114 INFO [default] Endstd::__cxx11::string DynamicArray::ToString()
+
+2021-03-07 22:03:06,114 INFO [default] End Returning data[0] value: 
+data[1] value: 
+data[2] value: 
+data[3] value: 
+data[4] value: 
+
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 1
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 1
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 1
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 1
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 1
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 0
+
+2021-03-07 22:03:06,114 INFO [default] Start bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End bool DynamicArray::SetValue(std::__cxx11::string, int)
+
+2021-03-07 22:03:06,114 INFO [default] End Returning 0
+
+2021-03-07 22:03:06,114 INFO [default] Start std::__cxx11::string DynamicArray::ToString()
+
+2021-03-07 22:03:06,114 INFO [default] Endstd::__cxx11::string DynamicArray::ToString()
+
+2021-03-07 22:03:06,114 INFO [default] End Returning data[0] value: Homer
+data[1] value: Marge
+data[2] value: Bart
+data[3] value: Lisa
+data[4] value: Maggie
+
+
+2021-03-07 22:03:06,114 INFO [default] Start std::__cxx11::string CreateXML(DynamicArray&)
+
+2021-03-07 22:03:06,114 INFO [default] End std::__cxx11::string CreateXML(DynamicArray&)
+
+2021-03-07 22:03:06,115 INFO [default] Start static int DynamicArray::GetObjectCount()
+
+2021-03-07 22:03:06,115 INFO [default] End static int DynamicArray::GetObjectCount()
+
+2021-03-07 22:03:06,115 INFO [default] Start DynamicArray::~DynamicArray()
+
+2021-03-07 22:03:06,115 INFO [default] EndDynamicArray::~DynamicArray()
+
+2021-03-07 22:03:06,115 INFO [default] Start static int DynamicArray::GetObjectCount()
+
+2021-03-07 22:03:06,115 INFO [default] End static int DynamicArray::GetObjectCount()
+

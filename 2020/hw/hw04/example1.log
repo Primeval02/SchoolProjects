@@ -1,0 +1,113 @@
+2021-02-28 18:40:55,485 INFO [default] Start StaticArray::StaticArray()
+
+2021-02-28 18:40:55,485 INFO [default] End StaticArray::StaticArray()
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Homer,-1
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 0
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Homer,5
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 0
+
+2021-02-28 18:40:55,485 INFO [default] Start std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,485 INFO [default] End std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: data[0] value: 
+data[1] value: 
+data[2] value: 
+data[3] value: 
+data[4] value: 
+
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Homer,0
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Marge,1
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Bart,2
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Lisa,3
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Maggie,4
+
+2021-02-28 18:40:55,485 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,485 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,485 INFO [default] Start Params: Apu,5
+
+2021-02-28 18:40:55,486 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,486 INFO [default] End Returning: 0
+
+2021-02-28 18:40:55,486 INFO [default] Start std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,486 INFO [default] End std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,486 INFO [default] End Returning: data[0] value: Homer
+data[1] value: Marge
+data[2] value: Bart
+data[3] value: Lisa
+data[4] value: Maggie
+
+
+2021-02-28 18:40:55,486 INFO [default] Start bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,486 INFO [default] Start Params: Manjula,0
+
+2021-02-28 18:40:55,486 INFO [default] End bool StaticArray::SetValue(std::__cxx11::string, int)
+
+2021-02-28 18:40:55,486 INFO [default] End Returning: 1
+
+2021-02-28 18:40:55,486 INFO [default] Start std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,486 INFO [default] End std::__cxx11::string StaticArray::ToString()
+
+2021-02-28 18:40:55,486 INFO [default] End Returning: data[0] value: Manjula
+data[1] value: Marge
+data[2] value: Bart
+data[3] value: Lisa
+data[4] value: Maggie
+
+
+2021-02-28 18:40:55,486 INFO [default] Start StaticArray::~StaticArray()
+
+2021-02-28 18:40:55,486 INFO [default] End StaticArray::~StaticArray()
+
