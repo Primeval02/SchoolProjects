@@ -8,7 +8,7 @@ void smallify(char before[], char after[]);
 int main()
 {
     char input[50];
-    char output[50];
+    char output[50] = {0};
     cout << "Enter a string: ";
     cin.getline(input, 50);
 

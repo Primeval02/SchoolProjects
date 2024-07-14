@@ -32,8 +32,8 @@ int main()
 
 void parse_name(char full[], char first[], char last[])
 {
-    int count;
-    int count2;
+    int count = 0;
+    int count2 = 0;
     int position = strlen(full);
   
     while (full[count] != ' ')
