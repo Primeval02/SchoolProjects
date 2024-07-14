@@ -1,4 +1,4 @@
-# Coding Challenges and Labs
+# 2010 Programming I Fundamentals
 
 ## Descriptions of Working Files and Their Outputs/Goals
 
