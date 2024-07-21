@@ -11,16 +11,16 @@
 - **3350 - Software Engineering**
   - Software development methodologies and practices.
 - **3480 - Computer Graphics**
-  - Shaders
+  - Rasterization, Ray Tracing, Shaders, etc.
 - **3500 - Programming Languages**
   - Exploration of different programming languages and paradigms.
 - **3560 - Artificial Intelligence**
-
+  - A.I. approaches, perceptrons, rules, genetic algorithms, prolog
 - **3600 - Operating Systems**
   - Concepts and implementation of operating systems.
 - **3620 - Computer Networks**
   - Networking principles and protocols.
 - **3640 - Distributed and Parallel Computing**
-  
+  - Parallel computing, threads, locks, time improvement
 - **4490 - Game Development**
   - Game design and development projects.
