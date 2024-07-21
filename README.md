@@ -23,4 +23,4 @@
 - **3640 - Distributed and Parallel Computing**
   - Parallel computing, threads, locks, time improvement
 - **4490 - Game Development**
-  - Game design and development projects.
+  - Game design and development projects, 2D/3D engines, physics, billboarding, etc.
