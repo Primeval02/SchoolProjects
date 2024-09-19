@@ -11,7 +11,7 @@
 - **3350 - Software Engineering**
   - Software development methodologies and practices.
 - **3480 - Computer Graphics**
-  - Rasterization, Ray Tracing, Shaders, etc.
+  - Rasterization, Ray Tracing, Shaders, Bounding Boxes, etc.
 - **3500 - Programming Languages**
   - Exploration of different programming languages and paradigms.
 - **3560 - Artificial Intelligence**
